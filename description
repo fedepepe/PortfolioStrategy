@@ -1,0 +1,1 @@
+Enhanced version of the Master thesis project. The original code has been enriched with a module that automatically downloads and stores new intraday data from Yahoo Finance, to serve as a real robo-advisor for investments. The code lets you choose between U.S. and European market, represented by stocks listed in the SP500 and STOXXE600 indices.
