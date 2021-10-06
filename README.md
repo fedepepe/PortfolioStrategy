@@ -10,7 +10,7 @@ Fan, J. and Zhang, J. and Yu, K. (2021). Vast Portfolio Selection with Gross-Exp
 I build upon the approach presented in: Dan Wang, C. and Chen, Z. and Lian Y. and Chen M. (2020). Asset Selection based on High Frequency Sharpe Ratio.
 Journal of Econometrics, and I further enhance it by adopting the improved covariance matrix estimator, tested in the ImprovingMVPortfolio repository.
 
-The performance of the strategy is compared against other the widely-used momentum strategy, its risk-managed counterpart and Dan Wang's method, which are all implemented in the code. The momentum strategy is presented in: Jegadeesh, N. and Titman, S. (1993). Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency. Journal of Finance, 48:65–91. For risk-managed momentum, please refer to: Barroso, P. and Santa-Clara, P. (2015). Momentum Has Its Moments. Journal of Financial Economics, 116(1):111–120.
+The performance of the strategy is compared against the widely-used momentum strategy, its risk-managed counterpart and Dan Wang's method, which are all implemented in the code. The momentum strategy is presented in: Jegadeesh, N. and Titman, S. (1993). Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency. Journal of Finance, 48:65–91. For risk-managed momentum, please refer to: Barroso, P. and Santa-Clara, P. (2015). Momentum Has Its Moments. Journal of Financial Economics, 116(1):111–120.
 
 ## Back-testing parameters  
 They are located in the main() method in main.py
